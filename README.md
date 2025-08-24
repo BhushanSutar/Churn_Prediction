@@ -26,7 +26,9 @@ The model is deployed using **Streamlit**, and preprocessing steps such as **sca
 ├── Churn_Modelling.h5       # Trained ANN model
 └── README.md                # Project Documentation
 
-Author
+## Find live app here - https://churnprediction-wjzyvu4awbm4l7vocappply.streamlit.app/
+
+## Author
 
 Bhushan Sutar
 
