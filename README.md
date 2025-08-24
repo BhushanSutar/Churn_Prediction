@@ -18,31 +18,23 @@ The model is deployed using **Streamlit**, and preprocessing steps such as **sca
 ---
 
 ## 📂 Project Structure
-```bash
 ├── churn.ipynb              # Jupyter Notebook with training code
 ├── app.py                   # Streamlit app for deployment
 ├── scaler.pkl               # Standard Scaler used during training
 ├── label_encoder.pkl        # Label Encoder used during training
 ├── one_hot_encoder.pkl      # One-Hot Encoder used during training
-├── Churn_Modelling.h5           # Trained ANN model
+├── Churn_Modelling.h5       # Trained ANN model
 └── README.md                # Project Documentation
-
-Model Details
-
-Architecture: Artificial Neural Network (ANN)
-
-Layers: Input → Hidden Layers (ReLU activations) → Output (Sigmoid)
-
-Loss Function: Binary Crossentropy
-
-Optimizer: Adam
-
-Evaluation Metric: Accuracy
 
 Author
 
-BHushan Sutar
+Bhushan Sutar
 
-GitHub: BhushanSutar
+GitHub: your-BhushanSutar
 
-LinkedIn:(https://www.linkedin.com/in/bhushansutar/)
+LinkedIn: your- https://www.linkedin.com/in/bhushansutar/
+
+
+
+
+
