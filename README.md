@@ -32,9 +32,9 @@ The model is deployed using **Streamlit**, and preprocessing steps such as **sca
 
 Bhushan Sutar
 
-GitHub: your-BhushanSutar
+GitHub: BhushanSutar
 
-LinkedIn: your- https://www.linkedin.com/in/bhushansutar/
+LinkedIn:  https://www.linkedin.com/in/bhushansutar/
 
 
 
